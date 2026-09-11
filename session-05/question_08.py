@@ -50,6 +50,7 @@ for i in input_list:
 most_char = char_list[0]
 max_count = 0
 
+
 for j in char_list:
     c = char_list.count(j)
 
