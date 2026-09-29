@@ -6,5 +6,9 @@ for i in range (0,8):
     else:
         maxNumber=l[i]
 print('MAX Number Is :' ,maxNumber)        
-        
-        
+ '''       
+for number in l:
+     if number>maxNumber:   
+         maxNumber=number
+print(maxnumbe)         
+         '''
